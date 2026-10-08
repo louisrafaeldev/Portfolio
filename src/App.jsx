@@ -482,7 +482,7 @@ function App() {
               </div>
 
               <div className="resume-actions">
-                <a className="primary-button" href="/louis-rafael-resume.pdf" download>
+                <a className="primary-button" href="/Quinones_LouisRafael_Resume.pdf" download>
                   Download Resume
                 </a>
               </div>
